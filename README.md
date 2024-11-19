@@ -1,10 +1,9 @@
 <h1 align="center">Hola, me llamo Lucas Dugo</h1>
 <h3 align="center">Soy un Analista de datos certificado</h3>
 
-- Lider, Proactivo, Trabajo en equipo, Amabilidad, Paciencia **SQL, PowerBI, Excel**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/lucasdugo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasdugo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
