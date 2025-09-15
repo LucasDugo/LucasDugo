@@ -61,8 +61,4 @@
 
 ---
 
-<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
-
-------
-
 Last Edited on: 15/09/2025
