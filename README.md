@@ -6,14 +6,16 @@
 <h2>
   🧉 ABOUT ME:
 </h2>
-
 - 👨‍💻 I'm currently working full-time as a Data Analyst at La Colonia S.A.
+
+- 📝 I'm pursuing a Data Science Technical Degree at ISTEA — in progress
 
 - 📊 BI-focused Data Analyst, passionate about data—especially in gaming. I turn SQL/Excel data into clear, fast Power BI dashboards with the KPIs that matter for business and players.
 
 - 🛠️ How I work: start from the business question → clean & combine data → prototype quickly → iterate with stakeholders → ship with simple docs so anyone can use it.
 
 - 💻 AI & coding: I code with AI copilots (Python/DAX/SQL) to draft and refactor faster, then I review, test, and version changes—keeping accuracy and privacy first. 
+
 
 ## 🛠 &nbsp;Tech Stack
 
