@@ -6,6 +6,7 @@
 <h2>
   🧉 ABOUT ME:
 </h2>
+
 - 👨‍💻 I'm currently working full-time as a Data Analyst at La Colonia S.A.
 
 - 📝 I'm pursuing a Data Science Technical Degree at ISTEA — in progress
